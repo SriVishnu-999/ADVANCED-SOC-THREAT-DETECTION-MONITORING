@@ -168,32 +168,6 @@ Persistence          →  T1136      (Create Account)
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 soc-threat-detection-splunk
- ┣ 📂 screenshots/
- ┃ ┣ 01_powershell_execution.png
- ┃ ┣ 02_eventcode_4688_splunk.png
- ┃ ┣ 03_failed_logins_4625.png
- ┃ ┣ 04_successful_logons_4624.png
- ┃ ┣ 05_process_creation_alltime.png
- ┃ ┣ 06_brute_force_stats.png
- ┃ ┣ 07_alert_multiple_failed_logins.png
- ┃ ┣ 08_alert_success_after_failure.png
- ┃ ┣ 09_alert_privilege_escalation.png
- ┃ ┗ 10_alert_account_created.png
- ┣ 📂 queries/
- ┃ ┣ brute_force_detection.spl
- ┃ ┣ compromised_account_correlation.spl
- ┃ ┣ privilege_escalation.spl
- ┃ ┗ account_creation_insider_threat.spl
- ┣ 📄 SOC_Project_Report.docx
- ┗ 📄 README.md
-```
-
----
-
 ## 🚀 How to Reproduce
 
 1. Install **Splunk Enterprise** (free trial at [splunk.com](https://www.splunk.com))
@@ -206,12 +180,8 @@ Persistence          →  T1136      (Create Account)
 
 ## 👤 About
 
-**Vishnu**
-Fresher | Aspiring SOC Analyst
+**Sri Vishnu**
+Aspiring SOC Analyst
 Passionate about threat detection, log analysis, and building practical cybersecurity skills through hands-on projects.
 
 ---
-
-## 📄 License
-
-This project is for educational and portfolio purposes only.
